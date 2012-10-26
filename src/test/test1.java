@@ -9,5 +9,9 @@ package test;
  * @author thihasoe
  */
 public class test1 {
+    public static void main(){
     
+        System.out.println("new on");
+    }
+           
 }
